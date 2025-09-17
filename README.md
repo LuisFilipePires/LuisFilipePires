@@ -1,27 +1,20 @@
 ## Hi there 👋
 
-# 👨‍💻📊 André Luiz Cardoso 📊👨‍💻
+# 👨‍💻📊 Luis Filipe Fernandes Pires 📊👨‍💻
 
 **Data Analyst | Python Developer | SQL & BI Specialist**  
 Ready for data-driven challenges in business, finance, and technology.  
 _“I turn data into decisions – and code into clarity.”_
 
-📫 [Email](mailto:andre.lc93@hotmail.com) · 🌐 [Portfolio](https://sites.google.com/view/andrelc) · 💼 [LinkedIn](https://www.linkedin.com/in/andre-l-cardoso)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreLuiz-Cardoso&show_icons=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLuiz-Cardoso&layout=compact&bg_color=00000000)
+📫 [Email](mailto:learn2b3e@hotmail.com) · 
 
 ---
 ## 📁 Main Repositories
 
 Explore my work organized by area:
 
-- 📊[Data Science](https://github.com/AndreLuiz-Cardoso/Data-Science) – Exploratory analysis, KPIs, business dashboards  
-- 🐍[AI & Python Developer](https://github.com/AndreLuiz-Cardoso/Python-Developer) – AI agents, backend logic, automation, CLI tools  
-- 🧮[SQL](https://github.com/AndreLuiz-Cardoso/SQL) – Complex queries, data manipulation, performance tuning  
 - 💻[42 Luxembourg](https://github.com/AndreLuiz-Cardoso/42-Luxembourg) – C programming, algorithms, system-level logic  
-- 🤖[Machine Learning](https://github.com/AndreLuiz-Cardoso/Machine-Learning) – Predictive models, scikit-learn experiments  
-- 🔗[Blockchain](https://github.com/AndreLuiz-Cardoso/Blockchain/) – Smart contracts, crypto logic, and Web3 prototypes
+
 ---
 ## 🧰 Technologies
 
