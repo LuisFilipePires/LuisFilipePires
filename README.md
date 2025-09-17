@@ -8,9 +8,12 @@
 I’m a career shifter with strong discipline and dedication, currently studying at [42 Luxembourg](https://42luxembourg.lu).  
 My background in team leadership and years of professional experience taught me **resilience, responsibility, and teamwork** – values I now bring to the world of software development.  
 
-🔹 Passionate about **C, C++, Python, and system programming**  
-🔹 Interested in **web technologies, data analysis, and blockchain**  
+🔹 Passionate about **C, C++, and system programming**  
+🔹 Interested in **web technologies, and blockchain**  
 🔹 Always learning, building, and sharing projects  
+
+💡 At 42, I’ve been immersed in a **peer-to-peer, project-based methodology** that has strengthened my ability to **learn autonomously, adapt quickly to new technologies, and tackle complex challenges**.  
+This unique approach makes me confident in picking up new languages or frameworks efficiently, while developing strong problem-solving and collaboration skills. 
 
 💡 My goal: **to grow as a developer and contribute to real-world projects that make an impact.**  
 
