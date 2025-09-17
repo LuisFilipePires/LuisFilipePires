@@ -13,7 +13,7 @@ _“I turn data into decisions – and code into clarity.”_
 
 Explore my work organized by area:
 
-- 💻[42 Luxembourg](https://github.com/AndreLuiz-Cardoso/42-Luxembourg) – C programming, algorithms, system-level logic  
+- 💻[42 Luxembourg](https://github.com/LuisFilipePires/ecole-42) – C programming, algorithms, system-level logic  
 
 ---
 ## 🧰 Technologies
