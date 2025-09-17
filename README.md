@@ -16,4 +16,8 @@ My background in team leadership and years of professional experience taught me 
 
 📫 Reach me at: [Email](mailto:learn2b3e@hotmail.com) | [LinkedIn](https://www.linkedin.com/) | [Portfolio](https://fillcoding.com)  
 
+## 📁 Main Repositories
 
+Explore my work organized by area:
+
+- 💻 [42 Luxembourg](https://42luxembourg.lu). – C programming, algorithms, system-level logic
