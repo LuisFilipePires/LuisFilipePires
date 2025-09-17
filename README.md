@@ -20,4 +20,4 @@ My background in team leadership and years of professional experience taught me 
 
 Explore my work organized by area:
 
-- 💻 [42 Luxembourg](https://github.com/LuisFilipePires/ecole-42). – C programming, algorithms, system-level logic
+- 💻 [42 Luxembourg-Common Core Projects](https://github.com/LuisFilipePires/ecole-42). – C programming, algorithms, system-level logic
