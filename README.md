@@ -23,4 +23,4 @@ This unique approach makes me confident in picking up new languages or framework
 
 Explore my work organized by area:
 
-- 💻 [42 Luxembourg-Common Core Projects](https://github.com/LuisFilipePires/ecole-42). – C programming, algorithms, system-level logic
+- 💻 [42 Luxembourg-Common Core Projects](https://github.com/LuisFilipePires/ecole-42). – C C++ programming, algorithms, system-level logic
