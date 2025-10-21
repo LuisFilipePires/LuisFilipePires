@@ -25,3 +25,6 @@ Explore my work organized by area:
 
 - 💻 [42 Luxembourg-Common Core Projects](https://github.com/LuisFilipePires/ecole-42). – C C++ programming, algorithms, system-level logic
 - 🐍 [Python Progress](https://github.com/LuisFilipePires/Curso-Python). My Python (learning progress) – logic, automation, analysis, and clean code experiments
+
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisFilipePires&show_icons=true&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFilipePires&layout=compact&bg_color=00000000)
