@@ -21,6 +21,37 @@ This unique approach makes me confident in picking up new languages or framework
 
 ## 📁 Main Repositories
 
+## ⚙️ Here you can find my personal projects as well as projects completed at 42 School.”
+
+<p align="left">
+  <a href="https://github.com/LuisFilipePires/badges/blob/main/fdf42.png">
+    <img src="https://github.com/LuisFilipePires/badges/blob/main/fdf42.png" alt="FdF map" width="200"/>
+  </a>
+  <a href="https://github.com/LuisFilipePires/badges/blob/main/pylone.jpeg">
+    <img src="https://github.com/LuisFilipePires/badges/blob/main/pylone.jpeg" alt="FdF pylone" width="200"/>
+  </a>
+  <a href="https://github.com/LuisFilipePires/badges/blob/main/10-2.jpeg">
+    <img src="https://github.com/LuisFilipePires/badges/blob/main/10-2.jpeg" alt="FdF map" width="200"/>
+  </a>
+  <a href="https://github.com/LuisFilipePires/badges/blob/main/pyra.jpeg">
+    <img src="https://github.com/LuisFilipePires/badges/blob/main/pyra.jpeg" alt="FdF pylone" width="200"/>
+  </a>
+</p>
+<p align="left">
+  <a href="https://github.com/LuisFilipePires/badges/blob/main/cube3d_main.png">
+    <img src="https://github.com/LuisFilipePires/badges/blob/main/cube3d_main.png" alt="Cub3D Screenshot 1" width="200"/>
+  </a>
+  <a href="https://github.com/LuisFilipePires/badges/blob/main/cube3d_2.png">
+    <img src="https://github.com/LuisFilipePires/badges/blob/main/cube3d_2.png" alt="Cub3D Screenshot 2" width="200"/>
+  </a>
+  <a href="https://github.com/LuisFilipePires/badges/blob/main/cube3d_3.png">
+    <img src="https://github.com/LuisFilipePires/badges/blob/main/cube3d_3.png" alt="Cub3D Screenshot 1" width="200"/>
+  </a>
+  <a href="https://github.com/LuisFilipePires/badges/blob/main/cube3d_4.png">
+    <img src="https://github.com/LuisFilipePires/badges/blob/main/cube3d_4.png" alt="Cub3D Screenshot 2" width="200"/>
+  </a>
+</p>
+
 Explore my work organized by area:
 
 - 💻 [42 Luxembourg-Common Core Projects](https://github.com/LuisFilipePires/ecole-42). – C C++ programming, algorithms, system-level logic
