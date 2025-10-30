@@ -37,6 +37,15 @@ This unique approach makes me confident in picking up new languages or framework
     <img src="https://github.com/LuisFilipePires/badges/blob/main/pyra.jpeg" alt="FdF pylone" width="200"/>
   </a>
 </p>
+
+## FdF and Cub3D Projects
+
+These projects are about writing programs that run fast and efficiently.
+Instead of drawing pixels directly to the screen, I first write them into a memory buffer and then display the final image.
+This approach improves performance and avoids slow rendering.
+
+I also experiment with threads to handle calculations in the background without blocking the main program.
+The same concepts can be applied to more advanced libraries like SDL2, or others, making it easier to create smoother and more responsive graphics.
 <p align="left">
   <a href="https://github.com/LuisFilipePires/badges/blob/main/cube3d_main.png">
     <img src="https://github.com/LuisFilipePires/badges/blob/main/cube3d_main.png" alt="Cub3D Screenshot 1" width="200"/>
