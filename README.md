@@ -1,9 +1,9 @@
 
-## 👋 Hi there, welcome to my GitHub!  
+## Welcome to my GitHub!  
 
-# 👨‍💻 Luis Filipe Fernandes Pires  
+# Luis Filipe Fernandes Pires  
 
-**Aspiring Software Developer | 42 Luxembourg Student | Data Enthusiast**  
+**Aspiring Software Developer | 42 Luxembourg Student | Data Enthusiast | Cybersecurity**
 
 I’m a career shifter with strong discipline and dedication, currently studying at [42 Luxembourg](https://42luxembourg.lu).  
 My background in team leadership and years of professional experience taught me **resilience, responsibility, and teamwork** – values I now bring to the world of software development.  
