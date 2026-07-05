@@ -69,5 +69,7 @@ Explore my work organized by area:
 - <img src="https://github.com/LuisFilipePires/assets/blob/main/cpp.png" width="20"/> [C++ Progress + studies](https://github.com/LuisFilipePires/learning-cpp). C++ Experiments & Study Projects exploring algorithms, OOP
 - <img src="https://github.com/LuisFilipePires/assets/blob/main/c.jpg" width="30"/> [C Progress assortment studies](https://github.com/LuisFilipePires/c-assortiment). C Projects algorithms and c assortment
 
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisFilipePires&show_icons=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFilipePires&layout=compact&bg_color=00000000)
+
+-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LuisFilipePires&show_icons=true&theme=transparent)
+
+
